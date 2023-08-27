@@ -1,12 +1,13 @@
-# Halo semua! 
+# Hello Everyone! 
 
-Perkenalkan nama saya **Yuda Adi Pratama**.
+My name is **Yuda Adi Pratama**.
 
-Saya seorang **Customer Solution Consultant** di [Terralogiq](https://www.terralogiq.com/).
+I'm a Presales Consultant with 3+ years of experience in the IT industry. Proven ability to translate technical concepts into business value, and to build and maintain relationships with key stakeholders. Expertise in Google product such as Google Maps Platform, Google Cloud Platform and Google Workspace.
 
-Saya juga memiliki sertifikat untuk [Belajar Dasar Google Cloud](https://www.credential.net/h5deoi5h) dari Dicoding sejak 2022.
+Passionate about helping businesses adopt cloud computing solutions to achieve their business goals. Proven track record of exceeding sales goals and delivering high-quality customer service. Ability to work independently and as part of a team. Passion for learning and staying up-to-date on the latest technologies.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/yuda-adi-pratama/)ku ya.
+You can find me in [Linkedin](https://www.linkedin.com/in/yuda-adi-pratama/).
+or you can hire me in [Fiver](https://www.fiverr.com/yudaduy).
 
 <p align="left">
 <a href="https://github.com/yudaa48">
